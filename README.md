@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/Quora-Sanskruti-red)](https://www.quora.com/profile/Sanskruti-Nerlekar)
 
 
-I'm an aspiring full stack web developer.
-The crossover between design and programming has always been of interest to me. I am currently pursuing MCA. I have done a MERN stack web development internship at Edureka. I am learning lot of new things too.
+I'm an aspiring data scientist.
+The crossover between design and programming has always been of interest to me. I am currently pursuing MCA. I am doing a data science internship at a company named SecureUp. I am learning lot of new things too.
 
 Languages and Tools: 
 

@@ -6,22 +6,30 @@
 [![Website Badge](https://img.shields.io/badge/Quora-Sanskruti-red)](https://www.quora.com/profile/Sanskruti-Nerlekar)
 
 
-I'm an aspiring data scientist.
-The crossover between design and programming has always been of interest to me. I am currently pursuing MCA. I am doing a data science internship at a company named SecureUp. I am learning lot of new things too.
+Welcome to my GitHub! 👋 I'm Sanskruti, a passionate data enthusiast on a journey to unravel the stories hidden within data. 
+With a blend of analytical prowess and creative problem-solving, I dive deep into datasets to extract meaningful insights and drive informed decision-making. 
+From machine learning algorithms to data visualization techniques, I'm constantly exploring and learning in the ever-evolving world of data science. 
+Join me as I share my projects, code snippets, and insights on this exhilarating adventure through the realm of data.
+
 
 Languages and Tools: 
 
-<img alt="Python" src="https://img.shields.io/badge/python-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?style=flat-square&logo=nodejs&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=flat-square&logo=javascript&logoColor=white"/>  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?style=flat-square&logo=expressjs&logoColor=white"/> 
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/> <img alt="SQL" src="https://img.shields.io/badge/sql%20-%2314354C.svg?style=flat-square&logo=sql&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2314354C.svg?style=flat-square&logo=mongodb&logoColor=white"/> <img alt="Numpy" src="https://img.shields.io/badge/numpy%20-%2314354C.svg?style=flat-square&logo=numpy&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%2314354C.svg?style=flat-square&logo=pandas&logoColor=white"/> <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-%2314354C.svg?style=flat-square&logo=matplotlib&logoColor=white"/> <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn%20-%2314354C.svg?style=flat-square&logo=scikitlearn&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html%20-%2314354C.svg?style=flat-square&logo=html&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css%20-%2314354C.svg?style=flat-square&logo=css&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
+- 🔭 I’m currently working on ... Smart Agriculture Monitoring and Management System
+- 🌱 I’m currently exploring ... Machine Learning Algorithms
+- 👯 I’m looking to collaborate on ... NLP projects
+- 🤔 I’m looking for help with ... Data Science Projects
+- 💬 Ask me about ... Software Development
+- 📫 How to reach me: ... sanskrutinerlekar28800@gmail.com
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... Did you know that data science isn't just about numbers and algorithms?
+                   It's also deeply intertwined with creativity and problem-solving.
+                   Much like solving a puzzle, data scientists often need to think outside the box to uncover hidden patterns and insights within data.
+                   This blend of analytical thinking and creative exploration is what makes data science such a captivating passion for me!
+      
 
 -->

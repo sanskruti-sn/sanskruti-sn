@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sanskruti-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanskruti-nerlekar-9582401ba/)
 
 
-Welcome to my GitHub! 👋 I'm Sanskruti, a passionate data enthusiast on a journey to unravel the stories hidden within data. 
+Welcome to my GitHub! 👋 I'm Sanskruti, a passionate data science enthusiast on a journey to unravel the stories hidden within data. 
 With a blend of analytical prowess and creative problem-solving, I dive deep into datasets to extract meaningful insights and drive informed decision-making. 
 From machine learning algorithms to data visualization techniques, I'm constantly exploring and learning in the ever-evolving world of data science. 
 Join me as I share my projects, code snippets, and insights on this exhilarating adventure through the realm of data.

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Smart Agriculture Monitoring and Management System
 - 🌱 I’m currently exploring ... Machine Learning Algorithms
-- 👯 I’m looking to collaborate on ... NLP projects
+- 👯 I’m looking to collaborate on ... NLP and CV projects
 - 🤔 I’m looking for help with ... Data Science Projects
 - 💬 Ask me about ... Software Development
 - 📫 How to reach me: ... sanskrutinerlekar28800@gmail.com

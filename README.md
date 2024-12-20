@@ -1,6 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sanskruti-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/) [![Youtube Badge](https://img.shields.io/badge/-Sanskruti-blue?style=flat-square&logo=Youtube&logoColor=white)]([https://www.linkedin.com/in/sanskruti-n-0b866733b/](https://www.youtube.com/@SanskrutiN))
+[![Linkedin Badge](https://img.shields.io/badge/-Sanskruti-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/) [![Youtube Badge](https://img.shields.io/badge/-Sanskruti-red?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@SanskrutiN)
+
 
 
 Welcome to my GitHub! 👋 I'm Sanskruti, a passionate data science enthusiast on a journey to unravel the stories hidden within data. 

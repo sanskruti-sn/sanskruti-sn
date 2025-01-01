@@ -5,6 +5,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-ff1493?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-ff4500?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-ffd700?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
+
 
 
 

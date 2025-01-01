@@ -19,7 +19,7 @@ To transform raw data into actionable insights and build intelligent solutions t
 
 ### 🛠️ Languages and Tools  
 
-<p align="center">
+<p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=sql&logoColor=white"/>
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>

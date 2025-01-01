@@ -1,7 +1,8 @@
 ### Hi Developers 👋
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn_Profile_Link-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)  |  [![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel_Link-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)  |   [![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn_Profile_Link-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)  |  [![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel_Link-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)  |   [![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/) 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

@@ -2,15 +2,13 @@
 
 ---
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)  
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)    [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)    [![Instagram Badge](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
 
 ---
 
 ### 🚀 Welcome to my Codeverse!  
 
-I'm **Sanskruti**, a passionate software developer and data scientist with a flair for **EDA**, **Feature Engineering**, and **MLOps/DLOps/LLMOps**.  
+I'm **Sanskruti**, a passionate software developer and data scientist with a flair for **Software Development**, **EDA**, **Feature Engineering**, **MLOps**, **DLOps**, **LLMOps**.  
 
 🌟 **My Mission?**  
 To transform raw data into actionable insights and build intelligent solutions that push the boundaries of technology.  
@@ -37,11 +35,11 @@ To transform raw data into actionable insights and build intelligent solutions t
 
 ### 🌟 About Me  
 
-- 🔭 **Currently working on:** A **Smart Agriculture Monitoring and Management System 🌾** powered by machine learning.  
+- 🔭 **Currently working on: MLOps projects
 - 🌱 **Exploring:** Advanced Machine Learning Algorithms and frameworks.  
 - 👯 **Looking to collaborate on:** Cutting-edge NLP and Computer Vision projects.  
 - 🤔 **Open to helping with:** Innovative Data Science Projects or challenging software development.  
-- 💬 **Ask me about:** Software Development, MLOps, or Feature Engineering!  
+- 💬 **Ask me about:** Software Development, EDA, Feature Engineering, MLOps, DLOps, LLMOps
 - 📫 **Reach out to me at:** sanskrutinerlekar28800@gmail.com  
 - ⚡ **Fun fact:** Data science isn’t just algorithms—it's a playground of creativity and exploration, where every puzzle unveils new opportunities for innovation.  
 

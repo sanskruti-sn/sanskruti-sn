@@ -40,7 +40,6 @@ To transform raw data into actionable insights and build intelligent solutions t
 - 👯 **Looking to collaborate on:** Cutting-edge NLP and Computer Vision projects.  
 - 🤔 **Open to helping with:** Innovative Data Science Projects or challenging software development.  
 - 💬 **Ask me about:** Software Development, EDA, Feature Engineering, MLOps, DLOps, LLMOps
-- 📫 **Reach out to me at:** sanskrutinerlekar28800@gmail.com  
 - ⚡ **Fun fact:** Data science isn’t just algorithms—it's a playground of creativity and exploration, where every puzzle unveils new opportunities for innovation.  
 
 ---

@@ -1,26 +1,8 @@
 ### Hi Developers 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn_Profile_Link-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)  
-[![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel_Link-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-ff1493?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-ff4500?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-ffd700?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn_Profile_Link-040bfd?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)  
-[![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel_Link-ff4500?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-1efd04?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn_Profile_Link-040bfd?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)  
 [![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel_Link-ff4500?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram_Profile_Link-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
-
-
-
-
-
 
 
 

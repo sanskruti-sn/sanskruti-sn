@@ -46,6 +46,12 @@ To transform raw data into actionable insights and build intelligent solutions t
 
 ### 💻 Let's Build the Future, One Line of Code at a Time!  
 
-💻 Let's Build the Future, One Line of Code at a Time!
-Join me on this exhilarating journey as I share projects, insights, and code snippets. Together, let’s push boundaries and make tech even more exciting! 🚀
+<p>
+  💻 Let's Build the Future, One Line of Code at a Time!
+  Join me on this exhilarating journey as I share projects, insights, and code snippets. Together, let’s push boundaries and make tech even more exciting! 🚀
+</p>
+
+---
+
+
 

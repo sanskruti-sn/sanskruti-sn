@@ -11,6 +11,8 @@
 I'm **Sanskruti**, a passionate software developer and data scientist with a flair for 
 <p> <img alt="Software Development" src="https://img.shields.io/badge/Software_Development-388E3C?style=for-the-badge&logo=code&logoColor=black"/> <img alt="EDA" src="https://img.shields.io/badge/EDA-FFC107?style=for-the-badge&logo=chart-bar&logoColor=black"/> <img alt="Feature Engineering" src="https://img.shields.io/badge/Feature_Engineering-2196F3?style=for-the-badge&logo=data&logoColor=black"/> <img alt="MLOps" src="https://img.shields.io/badge/MLOps-E91E63?style=for-the-badge&logo=opsgenie&logoColor=black"/> <img alt="DLOps" src="https://img.shields.io/badge/DLOps-9C27B0?style=for-the-badge&logo=deepmind&logoColor=black"/> <img alt="LLMOps" src="https://img.shields.io/badge/LLMOps-FF5722?style=for-the-badge&logo=openai&logoColor=black"/> </p>  
 
+---
+
 🌟 **My Mission?**  
 To transform raw data into actionable insights and build intelligent solutions that push the boundaries of technology.  
 

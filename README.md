@@ -2,7 +2,7 @@
 
 ---
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)    [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)    [![Instagram Badge](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sanskruti-n-0b866733b/)    [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SanskrutiN)    [![Instagram Badge](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_sanskruti_n_/))  
 
 ---
 

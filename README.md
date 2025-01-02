@@ -6,9 +6,10 @@
 
 ---
 
-### 🚀 Welcome to my Codeverse!  
+### **🚀 Welcome to my Codeverse!**  
 
-I'm **Sanskruti**, a passionate software developer and data scientist with a flair for **Software Development**, **EDA**, **Feature Engineering**, **MLOps**, **DLOps**, **LLMOps**.  
+I'm **Sanskruti**, a passionate software developer and data scientist with a flair for 
+<p> <img alt="Software Development" src="https://img.shields.io/badge/Software_Development-1f77b4?style=for-the-badge&logo=code&logoColor=white"/> <img alt="EDA" src="https://img.shields.io/badge/EDA-2ca02c?style=for-the-badge&logo=chart-bar&logoColor=white"/> <img alt="Feature Engineering" src="https://img.shields.io/badge/Feature_Engineering-ff7f0e?style=for-the-badge&logo=data&logoColor=white"/> <img alt="MLOps" src="https://img.shields.io/badge/MLOps-d62728?style=for-the-badge&logo=opsgenie&logoColor=white"/> <img alt="DLOps" src="https://img.shields.io/badge/DLOps-9467bd?style=for-the-badge&logo=deepmind&logoColor=white"/> <img alt="LLMOps" src="https://img.shields.io/badge/LLMOps-8c564b?style=for-the-badge&logo=openai&logoColor=white"/> </p>.  
 
 🌟 **My Mission?**  
 To transform raw data into actionable insights and build intelligent solutions that push the boundaries of technology.  
@@ -17,7 +18,7 @@ To transform raw data into actionable insights and build intelligent solutions t
 
 ---
 
-### 🛠️ Languages and Tools  
+### **🛠️ Languages and Tools**  
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,7 +34,7 @@ To transform raw data into actionable insights and build intelligent solutions t
 
 ---
 
-### 🌟 About Me  
+### **🌟 About Me**
 
 - 🔭 **Currently working on: MLOps projects
 - 🌱 **Exploring:** Advanced Machine Learning Algorithms and frameworks.  
@@ -44,7 +45,7 @@ To transform raw data into actionable insights and build intelligent solutions t
 
 ---
 
-### 💻 Let's Build the Future, One Line of Code at a Time!  
+### **💻 Let's Build the Future, One Line of Code at a Time!**
 
 <p>
   💻 Let's Build the Future, One Line of Code at a Time!

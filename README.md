@@ -14,7 +14,7 @@ I'm **Sanskruti**, a passionate software developer and data scientist with a fla
 ---
 
 🌟 **My Mission?**  
-To transform raw data into actionable insights and build intelligent solutions that push the boundaries of technology.  
+->  To transform raw data into actionable insights and build intelligent solutions that push the boundaries of technology.  
 
 💡 From designing scalable software to mastering the art of data storytelling, I'm always up for a challenge!  
 
@@ -28,7 +28,7 @@ To transform raw data into actionable insights and build intelligent solutions t
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>

@@ -10,7 +10,8 @@
 ### **🚀 Welcome to my Codeverse!**  
 
 I'm **Sanskruti**, a passionate software developer and data scientist with a flair for 
-<p><img alt="Software Development" src="https://img.shields.io/badge/Software_Development-FF5733?style=for-the-badge&logo=code&logoColor=white&color=black"/> <img alt="EDA" src="https://img.shields.io/badge/EDA-F6AD55?style=for-the-badge&logo=chart-bar&logoColor=white&color=black"/> <img alt="Feature Engineering" src="https://img.shields.io/badge/Feature_Engineering-9C27B0?style=for-the-badge&logo=data&logoColor=white&color=black"/> <img alt="MLOps" src="https://img.shields.io/badge/MLOps-D53F8C?style=for-the-badge&logo=opsgenie&logoColor=white&color=black"/> <img alt="DLOps" src="https://img.shields.io/badge/DLOps-FFC107?style=for-the-badge&logo=deepmind&logoColor=white&color=black"/> <img alt="LLMOps" src="https://img.shields.io/badge/LLMOps-ED8936?style=for-the-badge&logo=openai&logoColor=white&color=black"/></p>
+<p><img alt="Software Development" src="https://img.shields.io/badge/Software_Development-FF5733?style=for-the-badge&logo=code&logoColor=black"/> <img alt="EDA" src="https://img.shields.io/badge/EDA-F6AD55?style=for-the-badge&logo=chart-bar&logoColor=black"/> <img alt="Feature Engineering" src="https://img.shields.io/badge/Feature_Engineering-9C27B0?style=for-the-badge&logo=data&logoColor=black"/> <img alt="MLOps" src="https://img.shields.io/badge/MLOps-D53F8C?style=for-the-badge&logo=opsgenie&logoColor=black"/> <img alt="DLOps" src="https://img.shields.io/badge/DLOps-FFC107?style=for-the-badge&logo=deepmind&logoColor=black"/> <img alt="LLMOps" src="https://img.shields.io/badge/LLMOps-ED8936?style=for-the-badge&logo=openai&logoColor=black"/></p>
+
 
 
 
